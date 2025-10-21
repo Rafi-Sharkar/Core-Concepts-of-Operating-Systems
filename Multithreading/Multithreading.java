@@ -1,3 +1,5 @@
+package Multithreading;
+
 // Thread contain some methods:
 // Start(), run(), sleep(), join(), setPriority(), interrupt(), yield(), setDaemon()
 

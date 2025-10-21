@@ -1,3 +1,6 @@
+package Multithreading;
+
+
 public class ThreadPriority extends Thread{
     public ThreadPriority(String name){
         super(name);

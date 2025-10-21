@@ -1,3 +1,6 @@
+package Multithreading;
+
+
 public class ThreadInterrupt extends Thread{
     public ThreadInterrupt(String name) {
         super(name);
