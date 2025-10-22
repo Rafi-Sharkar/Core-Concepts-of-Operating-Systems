@@ -28,7 +28,7 @@ public class SeeDifference {
             }
         };
         System.out.println(engStu2.getInfo("Rafi"));
-        
+
 //      Method_3
         Student engStu3 = name -> name + " is an engineering student. [Method_3]";
         System.out.println(engStu3.getInfo("Rafi"));
